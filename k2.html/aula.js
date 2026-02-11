@@ -1,3 +1,4 @@
+
 let indice = 0;
 const imagens = document.querySelectorAll(".carrosel img");
 
